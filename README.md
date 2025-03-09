@@ -3,7 +3,7 @@
 
 # Exploratory_Data_Analysis_HU_HT_Dataset
 
-## Folder Structure Overview
+## Data file Overview
 
 Each file name follows the format: `Platform_ID_Video_ID_Session_ID_UserID.csv`
 
@@ -44,7 +44,7 @@ Each folder for a different User ID (e.g., "1001") follows the same structure, c
 
 ---
 
-## ✅ What This Combined Code Does:
+## ✅ What This Exploratory_Data_Analysis_HU_HT_Dataset Code Does:
 
 - Uploads CSV file interactively in Colab.
 - Computes **summary statistics** on file presence/missingness.
